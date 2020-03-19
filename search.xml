@@ -58,7 +58,7 @@
         <category>用户协议和隐私政策</category>
       </categories>
       <tags>
-        <tag>时间规划局、用户协议、隐私政策</tag>
+        <tag>用户协议和隐私政策</tag>
       </tags>
   </entry>
   <entry>
@@ -70,6 +70,12 @@
 <p>如果您还有其他问题，请通过以下方式联系我们: <a href="mailto:1217619769@qq.com">1217619769@qq.com</a>。</p>
 <p><a href>用户协议和隐私政策</a></p>
 ]]></content>
+      <categories>
+        <category>时间规划局</category>
+      </categories>
+      <tags>
+        <tag>时间规划局</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
