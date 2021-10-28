@@ -1,3 +1,4 @@
 {
-	"webSearchUrl": "https://pic.sogou.com/pic/searchList.jsp?keyword=xxxxx"
+	"webSearchUrl": "https://pic.sogou.com/pic/searchList.jsp?keyword=xxxxx",
+	"webSearchRecs": ["高清手机壁纸", "二次元", "情侣头像", "动物简笔画", "帅哥", "美女", "美食", "ins风", "明星", "纯色", "花", "纹理", "世界名车", "卡通", "星空", "风景", "动漫"]
 }
