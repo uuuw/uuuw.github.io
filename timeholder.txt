@@ -1,6 +1,6 @@
 {
   "netImage": {
-    "searcUrl": "https://cn.bing.com/images/search?q=xxxxx",
+    "searcUrl": "https://cn.bing.com/images/search?q=#keyword#",
     "searchRecs": ["高清手机壁纸", "二次元", "ins", "桌面壁纸", "帅哥", "美女", "美食", "哆啦A梦", "明星", "纯色", "鲜花", "纹理", "世界名车", "卡通", "星空", "风景"]
     }
 }
