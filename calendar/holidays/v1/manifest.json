@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "region": "CN",
+  "revision": 1,
+  "updatedAt": "2026-09-13",
+  "years": [
+    {
+      "year": 2026,
+      "revision": 1,
+      "path": "2026-r1.json",
+      "sha256": "462fe52ce5ca5d8fe80f78e26682567b11c74656bacb3987696f0d70bf192476",
+      "dayCount": 39
+    }
+  ]
+}
+
